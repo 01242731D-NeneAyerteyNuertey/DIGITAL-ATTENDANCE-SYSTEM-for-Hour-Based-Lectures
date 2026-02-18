@@ -3,8 +3,8 @@
 A C++ console-based attendance system for hour-based lectures. Developed for EEE227 - HND Electrical Engineering.
 
 ## 👨‍💻 Developer
-- Name: ACQUAYE ISHMAEL
-- Index Number: [01242378D]
+- Name:Nene Nuertey Ayertey
+- Index Number: [01242731D ]
 - Programme: HND Electrical Engineering (Level 200)
 
 ## 📅 Project Timeline
